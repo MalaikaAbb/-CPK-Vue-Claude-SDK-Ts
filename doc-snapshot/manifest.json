@@ -1,0 +1,385 @@
+{
+  "schema": 1,
+  "docsRoot": "https://docs.copilotkit.ai/vue/claude-sdk-typescript",
+  "syncedAt": "2026-11-17T15:43:49.890Z",
+  "pages": {
+    "/claude-sdk-typescript/generative-ui/components": {
+      "file": "claude-sdk-typescript__generative-ui__components.md",
+      "sha256": "13daa31fa72c24a8fa00f163a7bffbd523aed2f0e000ae57e218ebf513d0026c",
+      "bytes": 33709,
+      "lines": 795,
+      "routes": [
+        "/generative-ui/components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:50 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/catalogs": {
+      "file": "claude-sdk-typescript__generative-ui__components__catalogs.md",
+      "sha256": "8c339dfbe7a52444051aed19b4a4ce2c062e15cc0b0d83a68e65cecba2fef498",
+      "bytes": 23847,
+      "lines": 520,
+      "routes": [
+        "/generative-ui/components/catalogs"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:50 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/from-a2ui": {
+      "file": "claude-sdk-typescript__generative-ui__components__from-a2ui.md",
+      "sha256": "91add83e9ea05c209afdcd78d542e53416a25b70addfde9f629f0267673c66e0",
+      "bytes": 16752,
+      "lines": 279,
+      "routes": [
+        "/generative-ui/components/from-a2ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:50 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/markdown-mode": {
+      "file": "claude-sdk-typescript__generative-ui__components__markdown-mode.md",
+      "sha256": "80e7426d3153f16b37411a7280e10aefdc80fef52bf2a12af1949df23df49a17",
+      "bytes": 8768,
+      "lines": 188,
+      "routes": [
+        "/generative-ui/components/markdown-mode"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/standard-catalog": {
+      "file": "claude-sdk-typescript__generative-ui__components__standard-catalog.md",
+      "sha256": "61dae057564f4ff2a3db1e30bd0892c514d7fbaec7caa14076aac59eee833b0a",
+      "bytes": 16213,
+      "lines": 238,
+      "routes": [
+        "/generative-ui/components/standard-catalog"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:50 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/state-and-actions": {
+      "file": "claude-sdk-typescript__generative-ui__components__state-and-actions.md",
+      "sha256": "39a38f42b684d9ca8683c1d0cd601a0c042479ba9d18ea3c59c63b32bde262e1",
+      "bytes": 23530,
+      "lines": 556,
+      "routes": [
+        "/generative-ui/components/state-and-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:50 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/surfaces": {
+      "file": "claude-sdk-typescript__generative-ui__components__surfaces.md",
+      "sha256": "b2f9dcb884b95444fe8a861319e1d3fcf6ab780e450c0bf4b1f236b2ed3918f1",
+      "bytes": 21300,
+      "lines": 427,
+      "routes": [
+        "/generative-ui/components/surfaces"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/theming": {
+      "file": "claude-sdk-typescript__generative-ui__components__theming.md",
+      "sha256": "b5478c315467fa554e8eb6313e671c45bbfd30be5cfce52e3d561f6c62df579d",
+      "bytes": 6813,
+      "lines": 203,
+      "routes": [
+        "/generative-ui/components/theming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/claude-sdk-typescript/generative-ui/components/transports": {
+      "file": "claude-sdk-typescript__generative-ui__components__transports.md",
+      "sha256": "d7d83cbbfa0b507b866f6654b8380a206cc601e5b2d0575fb09f3fc29bf91ef0",
+      "bytes": 5169,
+      "lines": 139,
+      "routes": [
+        "/generative-ui/components/transports"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript": {
+      "file": "vue__claude-sdk-typescript.md",
+      "sha256": "cddc890a61f842b1543ade325ecb0d446902a45073aa0c46d3f0f562d15c367c",
+      "bytes": 8308,
+      "lines": 201,
+      "routes": [
+        "/",
+        "/quickstart"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/custom-look-and-feel/headless-ui": {
+      "file": "vue__claude-sdk-typescript__custom-look-and-feel__headless-ui.md",
+      "sha256": "ca47ca8cbe4f536b9b56eb01e7a4d4238b3ddd11d85b2047aaa8aae3e3b4b7fe",
+      "bytes": 7239,
+      "lines": 195,
+      "routes": [
+        "/custom-look-and-feel/headless-ui"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/custom-look-and-feel/slots": {
+      "file": "vue__claude-sdk-typescript__custom-look-and-feel__slots.md",
+      "sha256": "992430bb56a5ab1d285cfae290b94341e89d1e3a910166d582a705103c1db89e",
+      "bytes": 8806,
+      "lines": 270,
+      "routes": [
+        "/custom-look-and-feel/slots"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/frontend-tools": {
+      "file": "vue__claude-sdk-typescript__frontend-tools.md",
+      "sha256": "c039a209fbfeae2f5121070e825d0a25f39f21b5466a89185fd69365b47a903d",
+      "bytes": 3136,
+      "lines": 76,
+      "routes": [
+        "/frontend-tools"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/generative-ui/mcp-apps": {
+      "file": "vue__claude-sdk-typescript__generative-ui__mcp-apps.md",
+      "sha256": "a56ae2f57bffbfdd5959094850de7ba2284895815ad13cd3fe7df5c3d2ff6ee6",
+      "bytes": 5472,
+      "lines": 155,
+      "routes": [
+        "/generative-ui/mcp-apps"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/generative-ui/state-rendering": {
+      "file": "vue__claude-sdk-typescript__generative-ui__state-rendering.md",
+      "sha256": "c8aa011bb500a8efa7212b79272c9e4151877d90820909c06c5e7ba1201a3a33",
+      "bytes": 7272,
+      "lines": 212,
+      "routes": [
+        "/generative-ui/state-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/generative-ui/tool-based": {
+      "file": "vue__claude-sdk-typescript__generative-ui__tool-based.md",
+      "sha256": "7299c7c5a1876278aa4b8a2082775945d164defa929377e0250a13712b79fa88",
+      "bytes": 3510,
+      "lines": 84,
+      "routes": [
+        "/generative-ui/tool-based"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/generative-ui/tool-rendering": {
+      "file": "vue__claude-sdk-typescript__generative-ui__tool-rendering.md",
+      "sha256": "c9885f7ee76ace1500531750d4a21bac1c4b369cc0b3b972ace66820be921387",
+      "bytes": 9144,
+      "lines": 291,
+      "routes": [
+        "/generative-ui/tool-rendering"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/headless-threads": {
+      "file": "vue__claude-sdk-typescript__headless-threads.md",
+      "sha256": "6fca1bb5ad05d011ea35e8f12d967bcf250c804f78888aec4aa6e6ec3e1623ce",
+      "bytes": 7646,
+      "lines": 182,
+      "routes": [
+        "/headless-threads"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/human-in-the-loop": {
+      "file": "vue__claude-sdk-typescript__human-in-the-loop.md",
+      "sha256": "33ad936bdf75aa97d53d5f22b409a970353b91056cd2ead44daca9dcc7120a7f",
+      "bytes": 5213,
+      "lines": 117,
+      "routes": [
+        "/human-in-the-loop"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/human-in-the-loop/governed-actions": {
+      "file": "vue__claude-sdk-typescript__human-in-the-loop__governed-actions.md",
+      "sha256": "6108b33ad1000801d9062b0cd869240c294ad278ee202eaae810db0217a636ac",
+      "bytes": 8125,
+      "lines": 247,
+      "routes": [
+        "/human-in-the-loop/governed-actions"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/human-in-the-loop/headless": {
+      "file": "vue__claude-sdk-typescript__human-in-the-loop__headless.md",
+      "sha256": "9e936c3780ca0efa29d07139d38ac612c0d6835949ff708cd3b259b676db6734",
+      "bytes": 2628,
+      "lines": 63,
+      "routes": [
+        "/human-in-the-loop/headless"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/human-in-the-loop/useInterrupt": {
+      "file": "vue__claude-sdk-typescript__human-in-the-loop__useInterrupt.md",
+      "sha256": "ffb2e84cb3b2733306d60a889be041203d99c6b6997c22d6eabbb9504b81ab97",
+      "bytes": 5765,
+      "lines": 137,
+      "routes": [
+        "/human-in-the-loop/useInterrupt"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:51 GMT"
+    },
+    "/vue/claude-sdk-typescript/multi-agent/subagents": {
+      "file": "vue__claude-sdk-typescript__multi-agent__subagents.md",
+      "sha256": "da629c46594b0fee0b5d4c811f67c231bd0f9048d69dc4a23ed63a1364c7fe0f",
+      "bytes": 9892,
+      "lines": 278,
+      "routes": [
+        "/multi-agent/subagents"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/prebuilt-components": {
+      "file": "vue__claude-sdk-typescript__prebuilt-components.md",
+      "sha256": "befa7f3f804af6e37ea64678b8da4701b86c73a1344f525faab2eb0c03d11648",
+      "bytes": 2834,
+      "lines": 70,
+      "routes": [
+        "/prebuilt-components"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/prebuilt-components/copilot-threads-drawer": {
+      "file": "vue__claude-sdk-typescript__prebuilt-components__copilot-threads-drawer.md",
+      "sha256": "35c6656a8fc4b91fb914cdd2c1fcd54a2e26399d0bd13576cde1ff5eb996a052",
+      "bytes": 10511,
+      "lines": 243,
+      "routes": [
+        "/prebuilt-components/copilot-threads-drawer"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/programmatic-control": {
+      "file": "vue__claude-sdk-typescript__programmatic-control.md",
+      "sha256": "20505539f6115450f0ea09fbdcd9d118f22395c56215d8a8a7c1cd869341fef7",
+      "bytes": 5223,
+      "lines": 138,
+      "routes": [
+        "/programmatic-control"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/shared-state": {
+      "file": "vue__claude-sdk-typescript__shared-state.md",
+      "sha256": "67fa227da600ee5a99e74c38ab84e16007472b523f8b40734474c9a1a20d3964",
+      "bytes": 18339,
+      "lines": 592,
+      "routes": [
+        "/shared-state"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/shared-state/agent-readonly": {
+      "file": "vue__claude-sdk-typescript__shared-state__agent-readonly.md",
+      "sha256": "68814149f97f729acea647da7c115dd5bbc31fe4f5178560a5a42e08e6067544",
+      "bytes": 3498,
+      "lines": 77,
+      "routes": [
+        "/shared-state/agent-readonly"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/shared-state/rendering-in-app": {
+      "file": "vue__claude-sdk-typescript__shared-state__rendering-in-app.md",
+      "sha256": "a4f363d99d0d8f47a0a7eec1f4e81dd7b5a5a4a44890c7d99e9221422d9e2958",
+      "bytes": 5255,
+      "lines": 128,
+      "routes": [
+        "/shared-state/rendering-in-app"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/shared-state/streaming": {
+      "file": "vue__claude-sdk-typescript__shared-state__streaming.md",
+      "sha256": "6739aafd742ac0dd3491c727e6aa7e1272cb488e5cf73ed990a287a09537fe1b",
+      "bytes": 8095,
+      "lines": 226,
+      "routes": [
+        "/shared-state/streaming"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    },
+    "/vue/claude-sdk-typescript/webmcp": {
+      "file": "vue__claude-sdk-typescript__webmcp.md",
+      "sha256": "bb6790c498949515c06e6efbd250a8a729db8f26ebe8c5fa0b77ef4eb81e3ffc",
+      "bytes": 7262,
+      "lines": 161,
+      "routes": [
+        "/webmcp"
+      ],
+      "status": "ok",
+      "age": 0,
+      "date": "Tue, 17 Nov 2026 15:43:52 GMT"
+    }
+  },
+  "sitemap": {
+    "fetchedAt": "2026-11-17T15:43:49.890Z",
+    "urlsUnderRoot": 0,
+    "knownUnmapped": []
+  }
+}
